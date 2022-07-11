@@ -3,7 +3,7 @@
 USAF Veteran 24 Years
 Mechanic
 
-## Please visit other epositories
+## Please visit other repositories
 
 ### Markdowns
 # Header 1
